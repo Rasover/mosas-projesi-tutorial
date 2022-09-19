@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-09-19 13:26:03 by Eclipse SUMO GUI Version 1.12.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\burak\Desktop\mosas-projesi-1\Kilis%201\kilis03.net.xml"/>
+        <route-files value="C:\Users\burak\Desktop\mosas-projesi-1\Kilis%201\kilis_03.rou.xml"/>
+        <additional-files value="C:\Users\burak\Desktop\mosas-projesi-1\Kilis%201\kilis03.det.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="C:\Users\burak\Desktop\mosas-projesi-1\Kilis%201\my_intersection.trips.xml"/>
+    </output>
+
+    <time>
+        <begin value="000"/>
+        <end value="50000"/>
+    </time>
+
+    <processing>
+        <step-method.ballistic value="true"/>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+        <log value="C:\Users\burak\Desktop\mosas-projesi-1\Kilis%201\my_out.xml"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+</detector>

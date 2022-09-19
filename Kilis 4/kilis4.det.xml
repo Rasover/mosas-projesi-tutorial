@@ -1,0 +1,17 @@
+<additionals>
+    <e1Detector id="1_0" lane="1_0" pos="8.53" freq="100.00" file="e1Detector_1_0_0.txt" friendlyPos="0"/>
+    <e1Detector id="1_1" lane="1_1" pos="8.96" freq="100.00" file="e1Detector_1_1_1.txt" friendlyPos="0"/>
+    <e1Detector id="1_2" lane="1_2" pos="9.34" freq="100.00" file="e1Detector_1_2_2.txt" friendlyPos="0"/>
+
+
+    <e1Detector id="3_0" lane="3_0" pos="2.06" freq="100.00" file="e1Detector_3_0_6.txt" friendlyPos="0"/>
+    <e1Detector id="3_1" lane="3_1" pos="3.12" freq="100.00" file="e1Detector_3_1_7.txt" friendlyPos="0"/>
+    <e1Detector id="3_2" lane="3_2" pos="3.67" freq="100.00" file="e1Detector_3_2_8.txt" friendlyPos="0"/>
+
+    <e1Detector id="5_0" lane="5_0" pos="8.53" freq="100.00" file="e1Detector_5_0_12.txt" friendlyPos="0"/>
+    <e1Detector id="5_1" lane="5_1" pos="8.96" freq="100.00" file="e1Detector_5_1_13.txt" friendlyPos="0"/>
+    
+    <e1Detector id="7_0" lane="7_0" pos="2.06" freq="100.00" file="e1Detector_7_0_16.txt" friendlyPos="0"/>
+    <e1Detector id="7_1" lane="7_1" pos="3.12" freq="100.00" file="e1Detector_7_1_17.txt" friendlyPos="0"/>
+
+</additionals>

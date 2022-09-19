@@ -1,0 +1,16 @@
+Loading net-file from 'C:\Users\burak\Desktop\mosas-projesi-1\Kilis 1\kilis03.net.xml' ... done (10ms).
+Warning: Cannot build detector of length 100 because no further continuation lane was found for lane '3_0'! Truncated detector at length 75.11.
+Warning: Cannot build detector of length 100 because no further continuation lane was found for lane '3_1'! Truncated detector at length 75.11.
+Warning: Cannot build detector of length 100 because no further continuation lane was found for lane '3_2'! Truncated detector at length 75.11.
+Loading additional-files from 'C:\Users\burak\Desktop\mosas-projesi-1\Kilis 1\kilis03.det.xml' ... done (10ms).
+Loading done.
+Simulation ended at time: 0.00
+Performance: 
+ Duration: 3.62s
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles: 
+ Inserted: 0 (Loaded: 1)
+ Running: 0
+ Waiting: 0
+
