@@ -1,0 +1,14 @@
+Loading net-file from 'C:\Users\Burak\Desktop\mosas-projesi\QL_Cift_serit_Kilis_7902_Mosas_Verisi\mosas_kilis_7902_static.net.xml' ... done (10ms).
+Loading additional-files from 'C:\Users\Burak\Desktop\mosas-projesi\QL_Cift_serit_Kilis_7902_Mosas_Verisi\mosas_kilis_7902.det.xml' ... done (18ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 32890.00
+Performance: 
+ Duration: 34.63s
+ Real time factor: 949.7
+ UPS: 4380.457380
+Vehicles: 
+ Inserted: 4722 (Loaded: 4739)
+ Running: 6
+ Waiting: 0
+

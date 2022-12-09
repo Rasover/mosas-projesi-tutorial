@@ -1,0 +1,10 @@
+<additionals>
+    <e1Detector id="1_0" lane="1_0_0" pos="7.53" freq="200.00" file="e1Detector_1_0_0.txt" friendlyPos="1"/>
+   
+    <e1Detector id="2_0" lane="2_0_0" pos="7.53" freq="200.00" file="e1Detector_2_0_0.txt" friendlyPos="1"/>
+    
+    <e1Detector id="3_0" lane="3_0_0" pos="7.53" freq="200.00" file="e1Detector_3_0_0.txt" friendlyPos="1"/>
+    
+    <e1Detector id="4_0" lane="4_0_0" pos="7.53" freq="200.00" file="e1Detector_4_0_0.txt" friendlyPos="1"/>
+   
+</additionals>

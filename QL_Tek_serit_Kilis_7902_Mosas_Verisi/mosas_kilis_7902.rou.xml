@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+	<vehicle id="0" depart="26" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0"/>
+	</vehicle>
+	<vehicle id="1" depart="109" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="2" depart="239" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="3" depart="232" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="4" depart="232" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="5" depart="79" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="6" depart="123" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="7" depart="211" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="8" depart="257" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 1_1"/>
+	</vehicle>
+	<vehicle id="9" depart="89" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 2_1"/>
+	</vehicle>
+	<vehicle id="10" depart="264" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 2_1"/>
+	</vehicle>
+	<vehicle id="11" depart="260" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 2_1"/>
+	</vehicle>
+	<vehicle id="12" depart="265" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 2_1"/>
+	</vehicle>
+	<vehicle id="13" depart="172" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="14" depart="62" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="15" depart="196" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="16" depart="260" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="17" depart="272" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="18" depart="72" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 3_1"/>
+	</vehicle>
+	<vehicle id="19" depart="270" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 3_1"/>
+	</vehicle>
+	<vehicle id="20" depart="283" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 3_1"/>
+	</vehicle>
+	<vehicle id="21" depart="196" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 4_1"/>
+	</vehicle>
+	<vehicle id="22" depart="11" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 4_1"/>
+	</vehicle>
+	<vehicle id="23" depart="250" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="24" depart="193" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="25" depart="284" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="26" depart="21" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="27" depart="291" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 2_1"/>
+	</vehicle>
+	<vehicle id="28" depart="289" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 2_1"/>
+	</vehicle>
+	<vehicle id="29" depart="175" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="30" depart="159" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="31" depart="291" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="32" depart="64" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="33" depart="290" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="34" depart="71" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="35" depart="493" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="36" depart="373" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="37" depart="595" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="38" depart="300" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="39" depart="319" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="40" depart="522" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="41" depart="590" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="42" depart="333" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="43" depart="342" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 4_1"/>
+	</vehicle>
+	<vehicle id="44" depart="497" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 4_1"/>
+	</vehicle>
+	<vehicle id="45" depart="437" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 4_1"/>
+	</vehicle>
+	<vehicle id="46" depart="428" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 4_1"/>
+	</vehicle>
+	<vehicle id="47" depart="476" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 4_1"/>
+	</vehicle>
+	<vehicle id="48" depart="441" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 4_1"/>
+	</vehicle>
+	<vehicle id="49" depart="584" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 1_1"/>
+	</vehicle>
+	<vehicle id="50" depart="525" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="51" depart="586" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="52" depart="380" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="53" depart="597" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="54" depart="406" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="55" depart="552" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 2_1"/>
+	</vehicle>
+	<vehicle id="56" depart="599" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 2_1"/>
+	</vehicle>
+	<vehicle id="57" depart="492" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 2_1"/>
+	</vehicle>
+	<vehicle id="58" depart="319" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 2_1"/>
+	</vehicle>
+	<vehicle id="59" depart="535" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 1_1"/>
+	</vehicle>
+	<vehicle id="60" depart="526" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 1_1"/>
+	</vehicle>
+	<vehicle id="61" depart="535" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 1_1"/>
+	</vehicle>
+	<vehicle id="62" depart="370" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="63" depart="438" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="64" depart="531" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="65" depart="450" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="66" depart="366" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="67" depart="347" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 2_1"/>
+	</vehicle>
+	<vehicle id="68" depart="533" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 2_1"/>
+	</vehicle>
+	<vehicle id="69" depart="345" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 2_1"/>
+	</vehicle>
+	<vehicle id="70" depart="437" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 2_1"/>
+	</vehicle>
+	<vehicle id="71" depart="536" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="72" depart="467" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="73" depart="448" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="74" depart="470" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="75" depart="422" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="76" depart="499" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0"/>
+	</vehicle>
+	<vehicle id="77" depart="881" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 2_1"/>
+	</vehicle>
+	<vehicle id="78" depart="835" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 2_1"/>
+	</vehicle>
+	<vehicle id="79" depart="892" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 2_1"/>
+	</vehicle>
+	<vehicle id="80" depart="721" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 2_1"/>
+	</vehicle>
+	<vehicle id="81" depart="616" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="82" depart="613" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="83" depart="613" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="84" depart="900" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="85" depart="700" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="86" depart="712" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 3_1"/>
+	</vehicle>
+	<vehicle id="87" depart="668" departLane="best" departSpeed="max" color="red">
+ 		<route edges="1_0 4_1"/>
+	</vehicle>
+	<vehicle id="88" depart="679" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 1_1"/>
+	</vehicle>
+	<vehicle id="89" depart="607" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0"/>
+	</vehicle>
+	<vehicle id="90" depart="600" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 3_1"/>
+	</vehicle>
+	<vehicle id="91" depart="743" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 3_1"/>
+	</vehicle>
+	<vehicle id="92" depart="850" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="93" depart="641" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="94" depart="868" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="95" depart="638" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="96" depart="863" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 1_1"/>
+	</vehicle>
+	<vehicle id="97" depart="761" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 2_1"/>
+	</vehicle>
+	<vehicle id="98" depart="818" departLane="best" departSpeed="max" color="red">
+ 		<route edges="3_0 4_1"/>
+	</vehicle>
+	<vehicle id="99" depart="891" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 1_1"/>
+	</vehicle>
+	<vehicle id="100" depart="845" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 1_1"/>
+	</vehicle>
+	<vehicle id="101" depart="769" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 1_1"/>
+	</vehicle>
+	<vehicle id="102" depart="639" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 1_1"/>
+	</vehicle>
+	<vehicle id="103" depart="706" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="104" depart="816" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="105" depart="621" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="106" depart="718" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="107" depart="622" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="108" depart="854" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 2_1"/>
+	</vehicle>
+	<vehicle id="109" depart="823" departLane="best" departSpeed="max" color="red">
+ 		<route edges="4_0 3_1"/>
+	</vehicle>
+	<vehicle id="110" depart="783" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="111" depart="749" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="112" depart="811" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+	<vehicle id="113" depart="771" departLane="best" departSpeed="max" color="red">
+ 		<route edges="2_0 4_1"/>
+	</vehicle>
+</routes>

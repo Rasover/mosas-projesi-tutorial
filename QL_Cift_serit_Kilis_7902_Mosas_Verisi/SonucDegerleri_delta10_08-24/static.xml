@@ -1,0 +1,20 @@
+<data>
+	<items>
+		<item name="totalNumberOfVehicles">8993</item>
+		<item name="totalDepartureDelay">32</item>
+		<item name="averageDepartureDelay">0.00</item>
+		<item name="totalWaitingTime">23553</item>
+		<item name="averageVehicularWaitingTime">2.62</item>
+		<item name="totalNumberOfStop">3800</item>
+		<item name="averageNumberOfStop">0.42</item>
+		<item name="totalTravelTime">205874</item>
+		<item name="averageVehicularTravelTime">22.89</item>
+		<item name="totalTravelLength">1857475</item>
+		<item name="averageVehicularTravelLength">206.55</item>
+		<item name="averageVehicularTravelSpeed">9.71</item>
+		<item name="SDTravelTime">6.69</item>
+		<item name="SDLength">14.39</item>
+		<item name="SDSpeed">2.52</item>
+		<item name="SDWaitTime">4.07</item>
+	</items>
+</data>
